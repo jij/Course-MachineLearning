@@ -1,2 +1,2 @@
 # Course-MachineLearning
-Machine Learning Courses
+Machine Learning / Deep Learning / AI Courses
